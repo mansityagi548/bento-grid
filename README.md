@@ -19,9 +19,9 @@ A **modern, fully responsive Bento Grid** layout built with CSS Grid. This proje
 
 ## 🚀 Live Demo
 
-[**View Live Demo**]() 
+[**View Live Demo**](# https://mansityagi548.github.io/bento-grid/) 
 
-![Live Preview]() 
+![Live Preview](./preview/preview.png) 
 
 ## 🛠️ Technologies Used
 
